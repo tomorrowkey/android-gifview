@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">GifPlayer</string>
+  <string name="play">play</string>
+  <string name="pause">pause</string>
+  <string name="stop">stop</string>
+  <string name="next_frame">next frame</string>
+  <string name="prev_frame">prev frame</string>
+</resources>
